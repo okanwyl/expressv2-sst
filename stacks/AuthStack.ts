@@ -33,3 +33,13 @@ export function AuthStack({ stack, app }: StackContext) {
     auth,
   };
 }
+
+// {
+//     "UserConfirmed": false,
+//     "CodeDeliveryDetails": {
+//         "Destination": "a***@e***",
+//         "DeliveryMedium": "EMAIL",
+//         "AttributeName": "email"
+//     },
+//     "UserSub": "8d9b8f8c-9da3-4d7a-9b0b-484db9a25a9b"
+// }
