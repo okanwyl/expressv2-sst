@@ -6,6 +6,7 @@ body {
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
   font-family: "Open Sans", sans-serif;
+  background-color: #101010;
 }
 
 h1,
